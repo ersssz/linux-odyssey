@@ -1,0 +1,8 @@
+services:
+  linux-odyssey:
+    build: .
+    image: linux-odyssey:latest
+    container_name: linux-odyssey
+    ports:
+      - '8080:80'
+    restart: unless-stopped
