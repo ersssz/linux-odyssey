@@ -3,6 +3,7 @@
 **Linux, который видно.** Сюжетная кампания, где каждая команда оживает в большой схеме, а под капотом работает **настоящее ядро Linux прямо в браузере**.
 
 ### ▶ Открыть без установки: **https://ersssz.github.io/linux-odyssey/**
+(Если подключение к интернету слабое то лучше локально запустить)
 
 [![CI/CD](https://github.com/ersssz/linux-odyssey/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/ersssz/linux-odyssey/actions)
 ![Stack](https://img.shields.io/badge/stack-Vite%20%2B%20React%20%2B%20v86%20%2B%20xterm.js-blue)
